@@ -1,0 +1,10 @@
+[{"TerritoryID":1, "Name":"Northwest", "CountryRegionCode":"US", "Group":"North America", "SalesYTD":5767341.9752, "SalesLastYear":3298694.4938},
+ {"TerritoryID":2, "Name":"Northeast", "CountryRegionCode":"US", "Group":"North America", "SalesYTD":3857163.6331, "SalesLastYear":3607148.9371},
+ {"TerritoryID":3, "Name":"Central", "CountryRegionCode":"US", "Group":"North America", "SalesYTD":4677108.269, "SalesLastYear":3205014.0767},
+ {"TerritoryID":4, "Name":"Southwest", "CountryRegionCode":"US", "Group":"North America", "SalesYTD":8351296.7411, "SalesLastYear":5366575.7098},
+ {"TerritoryID":5, "Name":"Southeast", "CountryRegionCode":"US", "Group":"North America", "SalesYTD":2851419.0435, "SalesLastYear":3925071.4318},
+ {"TerritoryID":6, "Name":"Canada", "CountryRegionCode":"CA", "Group":"North America", "SalesYTD":6917270.8842, "SalesLastYear":5693988.86},
+ {"TerritoryID":7, "Name":"France", "CountryRegionCode":"FR", "Group":"Europe", "SalesYTD":3899045.694, "SalesLastYear":2396539.7601},
+ {"TerritoryID":8, "Name":"Germany", "CountryRegionCode":"DE", "Group":"Europe", "SalesYTD":2481039.1786, "SalesLastYear":1307949.7917},
+ {"TerritoryID":9, "Name":"Australia", "CountryRegionCode":"AU", "Group":"Pacific", "SalesYTD":1977474.8096, "SalesLastYear":2278548.9776},
+ {"TerritoryID":10, "Name":"United Kingdom", "CountryRegionCode":"GB", "Group":"Europe", "SalesYTD":3514865.9051, "SalesLastYear":1635823.3967}]

@@ -1,0 +1,6 @@
+[{"AddressTypeID":1, "Name":"Billing"},
+ {"AddressTypeID":2, "Name":"Home"},
+ {"AddressTypeID":3, "Name":"Main Office"},
+ {"AddressTypeID":4, "Name":"Primary"},
+ {"AddressTypeID":5, "Name":"Shipping"},
+ {"AddressTypeID":6, "Name":"Archive"}]
